@@ -36,6 +36,7 @@ namespace MVC_SECURITY.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
+//https://www.codeproject.com/Articles/654846/Security-In-ASP-NET-MVC
 
             return View();
         }
