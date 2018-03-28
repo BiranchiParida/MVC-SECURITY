@@ -40,3 +40,7 @@ G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\obj\Debug\MVC-SECURITY.csprojResol
 G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\obj\Debug\MVC-SECURITY.csproj.CoreCompileInputs.cache
 G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\obj\Debug\MVC-SECURITY.dll
 G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\obj\Debug\MVC-SECURITY.pdb
+G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\bin\AntiXssLibrary.dll
+G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\bin\HtmlSanitizationLibrary.dll
+G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\bin\AntiXssLibrary.xml
+G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\bin\HtmlSanitizationLibrary.xml

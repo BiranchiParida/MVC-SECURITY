@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+@*@using (Html.BeginForm("Login", "Login", FormMethod.Post, new { ReturnUrl = Request.QueryString["ReturnUrl"] }))*@
+@using(Html.BeginForm())
+{
+
+
+    <br />
+    @Html.Label("CustomerName")
+    @Html.TextBox("CustomerName", "", new { @class = "" })
+    <br />
+    @Html.Label("CustomerAddr")
+    @Html.TextBox("Address", "")
+    <br />
+    <input type="submit" value="Ok" id="btnok" class="btn-default" />
+}
