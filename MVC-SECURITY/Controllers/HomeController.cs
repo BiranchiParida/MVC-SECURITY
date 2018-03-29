@@ -10,6 +10,7 @@ namespace MVC_SECURITY.Controllers
 {
     public class HomeController : BaseController
     {
+       // https://www.codeproject.com/Articles/426766/Custom-Filters-in-MVC-Authorization-Action-Result
         //https://www.c-sharpcorner.com/uploadfile/cda5ba/security-feature-in-mvc/
         public class loginViewModel
         {

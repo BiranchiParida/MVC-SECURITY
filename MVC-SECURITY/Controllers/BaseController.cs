@@ -1,4 +1,4 @@
-﻿namespace Datatrust.Controllers
+﻿namespace MVC_SECURITY.Controllers
 {
     using System;
     using System.Text;
@@ -10,7 +10,7 @@
         private bool IsSessionExist()
         {
             bool status = false;
-            if (!string.IsNullOrEmpty(Convert.ToString(Session["VolunteerID"])))
+            if (!string.IsNullOrEmpty(Convert.ToString(Session["CustomerID"])))
             {
                 status = true;
             }
