@@ -7,6 +7,8 @@
 
     public class BaseController : Controller
     {
+        //https://www.codeproject.com/Articles/426766/Custom-Filters-in-MVC-Authorization-Action-Result
+        http://www.dotnet-stuff.com/tutorials/aspnet-mvc/understanding-asp-net-mvc-filters-and-attributes
         private bool IsSessionExist()
         {
             bool status = false;
