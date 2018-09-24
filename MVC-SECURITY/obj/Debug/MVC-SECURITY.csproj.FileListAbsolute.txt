@@ -44,3 +44,7 @@ G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\bin\AntiXssLibrary.dll
 G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\bin\HtmlSanitizationLibrary.dll
 G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\bin\AntiXssLibrary.xml
 G:\BOT\MVC Security\MVC-SECURITY\MVC-SECURITY\bin\HtmlSanitizationLibrary.xml
+C:\Users\BiranchiRanjan\Documents\GitHub\MVC-SECURITY\MVC-SECURITY\obj\Debug\MVC-SECURITY.csprojResolveAssemblyReference.cache
+C:\Users\BiranchiRanjan\Documents\GitHub\MVC-SECURITY\MVC-SECURITY\obj\Debug\MVC-SECURITY.csproj.CoreCompileInputs.cache
+C:\Users\BiranchiRanjan\Documents\GitHub\MVC-SECURITY\MVC-SECURITY\obj\Debug\MVC-SECURITY.dll
+C:\Users\BiranchiRanjan\Documents\GitHub\MVC-SECURITY\MVC-SECURITY\obj\Debug\MVC-SECURITY.pdb

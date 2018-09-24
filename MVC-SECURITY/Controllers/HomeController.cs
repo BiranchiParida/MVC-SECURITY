@@ -85,7 +85,7 @@ namespace MVC_SECURITY.Controllers
         {
             return View();
         }
-        [AuthorizeRoles("Admin")]
+       // [AuthorizeRoles("Admin")]
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";

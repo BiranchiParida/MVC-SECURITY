@@ -15,7 +15,7 @@ namespace MVC_SECURITY
         public AuthorizeRolesAttribute(params string[] roles)
         {
             string role = Convert.ToString(ConfigurationManager.AppSettings["LocalUser"]);
-            this.userAssignedRoles = roles;
+           // this.userAssignedRoles = roles;
         }
         protected override bool AuthorizeCore(HttpContextBase httpContext)
         {
@@ -30,7 +30,7 @@ namespace MVC_SECURITY
             //            return authorize;
             //    }
             //}
-            string s = userAssignedRoles.ToString();
+           // string s = userAssignedRoles.ToString();
 
             return authorize;
         }
